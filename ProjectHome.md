@@ -1,0 +1,1 @@
+The Book Store Application, is based on the android platform. A Sample Application which can be utilized by any book store. The user can buy books using this application.
